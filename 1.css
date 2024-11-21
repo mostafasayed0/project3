@@ -1,0 +1,85 @@
+.background{
+    background-image: url("images/pexels-luis-del-río-15286.jpg");
+    background-size: cover;
+    height:100vh;
+    background-attachment: scroll;
+}
+.navbar
+{
+    background-color:rgb(255 255 255 / 20%);
+}
+.q
+{
+    margin-left: 161px;
+    font-size: 34px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-weight: bolder;
+    margin-top: 1px;
+}
+.nav-link
+{
+    margin: 10px;
+}
+.background h1
+{
+    color: white;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    font-size: 71px;
+    letter-spacing: 35px;
+}
+.w h6
+{
+    position: relative;
+    top: 141px;
+}
+.w h1
+{
+    position: relative;
+    top: 155px;
+    margin: 0px 0px 20px;
+ 
+    
+}
+.w p
+{
+    font-size: 17px;
+    position: relative;
+    top: 202px;
+    
+}
+.pr{
+    width: 54%;
+    height: 30%;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 1345px;
+    right: 50px;
+    border-top: 4px solid green;
+    border-left: 4px solid green;
+}
+.pr h3
+{
+    font-size: 20px;
+    margin: 0px 0px 20px;
+    margin-left: 40px;
+    margin-top: 45px;
+}
+.pr input
+{
+    margin-left: 41px;
+}
+.pr svg
+{
+    width: 29px;
+    height: 35px;
+    background-color: green;
+    color: white;
+    position: relative;
+    left: 452px;
+    top: -35px;
+}
+
